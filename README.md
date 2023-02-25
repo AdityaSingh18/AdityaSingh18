@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Full-Stack Developement**
 
-- 💬 Ask me about **javaScript,Node Js,DSA**
+- 💬 Ask me about **javaScript,Node Js,React JS,DSA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
